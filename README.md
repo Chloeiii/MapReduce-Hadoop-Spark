@@ -1,6 +1,9 @@
-# MapReduce-Spark
-about database 
-
+# MapReduce-Spark'
+#####################
+#java8
+#eclipse
+#spark
+#hadoop
 
 
 Implement the following exercises using MapReduce and Spark. 
@@ -35,7 +38,7 @@ The partial code and Hadoop and Spark can be downloaded from: http://webhome.cs.
 
 
 
-
+////////////////////////////////////////////////////////////////////////////////
 ***To Be Done First***
 Set an enviroment variable:
 HADOOP_HOME to point to the full path of hadoop-2.7.1
